@@ -1,0 +1,43 @@
+.form{
+    display: flex;
+    border: 2px solid black;
+    width: 70%;
+    margin: 10% auto;
+    border-radius: 15px;
+    background-color: aqua;
+    justify-content: space-between;
+   
+}
+.form-control{
+    width: 90%;
+    border: 2px solid black;
+}
+.mb-3{
+   margin: 5%;
+   width: 350px;
+}
+button{
+    background-color:#0d6efd ;
+    padding: 6px;
+    border-radius: 5px;
+    margin: 4px;
+    margin-top: 0px;
+    border: #0d6efd;
+    margin-left: 25px;
+    
+}
+h3{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.formData{
+   
+    margin: 10% auto;
+}
